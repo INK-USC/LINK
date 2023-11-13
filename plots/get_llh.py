@@ -2,7 +2,7 @@ import os
 from copy import deepcopy
 import sys
 
-sys.path.append("../LINK/")
+sys.path.append("../link/")
 from knowledge_beam_search import get_rule,_get_full_rule_predicates,_swap_conclusion_to_last
 import json
 import openai

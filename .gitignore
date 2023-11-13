@@ -144,8 +144,4 @@ dmypy.json
 # wandb
 wandb/
 
-# directories
-data/
-results/
-figures/
-mturk_result/
+# more directories below

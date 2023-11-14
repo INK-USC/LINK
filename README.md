@@ -1,6 +1,6 @@
 # In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search
 
-This repository contains code for our paper "In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search"
+This repository contains code for our arxiv paper "[In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search](https://arxiv.org/abs/2311.07237)"
 
 ## Quick Links
 - [Overview](#overview)
@@ -63,7 +63,7 @@ Here is an example rule definition.
     "domain": "food and physical conditions"
 ```
 
-Our dataset LINT will be publicly released soon.
+Our dataset LINT is publicly released [here](https://zenodo.org/records/10117911).
 
 ## Searching
 
@@ -93,7 +93,7 @@ python LINK/knowledge_beam_search.py \
 
 ```
 
-### Basleines: searching with LLMs
+### Baselines: searching with LLMs
 `scripts/baseline.sh` contains an example script to generate knowledge statements with LLMs.
 
 ```bash

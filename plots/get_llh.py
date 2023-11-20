@@ -373,7 +373,7 @@ if args.succint:
 def get_model(name):
 	if name == "gpt":
 		model = OpenAIWrapper("text-davinci-003")
-	if name == "gpt_turbo":
+	elif name == "gpt_turbo":
 		model = OpenAIWrapper("gpt-3.5-turbo-instruct")
 	elif name == "ft":
 		model = FT_model()

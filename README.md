@@ -1,6 +1,6 @@
-# In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search
+# In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search
 
-This repository contains code for our arxiv paper "[In Search of the Long-Tail: Systematic Generation of Long-Tail Knowledge via Logical Rule Guided Search](https://arxiv.org/abs/2311.07237)"
+This repository contains code for our arxiv paper "[In Search of the Long-Tail: Systematic Generation of Long-Tail Inferential Knowledge via Logical Rule Guided Search](https://arxiv.org/abs/2311.07237)"
 
 ## Quick Links
 - [Overview](#overview)
